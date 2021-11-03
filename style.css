@@ -1,0 +1,26 @@
+
+button{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 55px;
+    margin-top: 100px;
+    width: 200px;
+    border-radius: 7px;
+    border: 3px solid rgb(68, 68, 255);
+}
+button:hover{
+    
+    transition: all 2s ease;
+    color: rgb(68, 68, 255);
+    border: 3px solid black;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+img{
+    margin-top: 70px;
+    margin-left: 120px;
+    height: 70px;
+    border-radius: 50%;
+}
